@@ -14,7 +14,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             if  !dataModel.episodes.isEmpty {
-                Text("episodes count: \(dataModel.episodes.count)")
+                Text("Episodes count: \(dataModel.episodes.count)")
                 
                 List(dataModel.episodes, id: \.self) { episode in
                     Text(episode)
