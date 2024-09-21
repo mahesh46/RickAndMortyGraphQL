@@ -15,7 +15,7 @@
 >  . generate query API from schema
 >
 
-## You can run query throgh the browser or postman
+## You can run query through the browser or postman
 
 <img width="1423" alt="Screenshot 2024-07-22 at 19 56 36" src="https://github.com/user-attachments/assets/6a3c366d-76b4-4b0a-ab6e-79368d5874e3">
 
